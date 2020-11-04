@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-int main() {
+int main2() {
 
 	std::vector<float> weight = { 0.5, 0.5 };
 	float x1 = 1, y1 = 2, x2 = 2, y2 = 4;
