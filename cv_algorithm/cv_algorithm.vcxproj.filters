@@ -21,5 +21,13 @@
     <ClCompile Include="opencv(test).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="NNTrainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NNTrainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
