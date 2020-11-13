@@ -6,7 +6,7 @@ using namespace cv;
 using namespace std;
 
 
-int main(int argc, char** argv)
+int main3(int argc, char** argv)
 {
     Mat image;
     String path = "C:/test.jpg";

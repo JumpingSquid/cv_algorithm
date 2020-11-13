@@ -145,7 +145,7 @@
   <ItemGroup>
     <ClCompile Include="NNTrainer.cpp" />
     <ClCompile Include="opencv(test).cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NNTrainer.h" />
